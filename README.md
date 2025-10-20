@@ -1,6 +1,8 @@
 # 💡 Linx
 
-Este projeto implementa uma aplicação que consome a API Open Brewery DB para listar e filtrar cervejarias, seguindo um layout pré-definido, no qual foi desenvolvido através de tecnologias modernas como React e Vite.
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+Este projeto implementa uma aplicação que consome a API Open Brewery DB para listar e filtrar cervejarias, seguindo um layout pré-definido, no qual foi desenvolvido através de tecnologias modernas como React e Vite. Caso tenha interesse, visite a página do desafio clicando [aqui](https://github.com/chaordic/desafio-frontend/tree/master).
 
 ### 🛠️ Funcionalidades Principais
 
