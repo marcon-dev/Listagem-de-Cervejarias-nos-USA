@@ -1,0 +1,59 @@
+.card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: left;
+  transition: .2s ease-in-out;
+  height: 300px;
+  user-select: none;
+}
+
+.card:hover {
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.cardContent {
+  padding: 16px;
+}
+
+.cardContent h3 {
+  margin: 0 0 8px 0;
+  font-size: 1.5em;
+}
+
+.cardContent p {
+  margin: 4px 0;
+  color: #555;
+}
+
+.cardFooter {
+  margin-top: 16px;
+  border-top: 1px solid #00000023;
+}
+
+.cardFooter span {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: #fff;
+  font-weight: bold;
+  display: inline-block;
+  margin: 12px;
+}
+
+/* Brewery type colors */
+.micro { background-color: #61ec9b; }
+.brewpub { background-color: #f1c40f; color: #222; }
+.regional { background-color: #2980b9; }
+.nano { background-color: #16a085; }
+.large { background-color: #8e44ad; }
+.planning { background-color: #7f8c8d; }
+.bar { background-color: #e67e22; }
+.contract { background-color: #34495e; }
+.proprietor { background-color: #c0392b; }
+.closed { background-color: #555; }

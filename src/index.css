@@ -1,0 +1,6 @@
+*, *::before, *::after {
+  font-family: "Libre Baskerville", 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
